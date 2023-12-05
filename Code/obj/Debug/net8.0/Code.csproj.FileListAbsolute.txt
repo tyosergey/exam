@@ -1,0 +1,14 @@
+C:\Users\tyose\OneDrive\Рабочий стол\exam\exam\Code\bin\Debug\net8.0\Code.exe
+C:\Users\tyose\OneDrive\Рабочий стол\exam\exam\Code\bin\Debug\net8.0\Code.deps.json
+C:\Users\tyose\OneDrive\Рабочий стол\exam\exam\Code\bin\Debug\net8.0\Code.runtimeconfig.json
+C:\Users\tyose\OneDrive\Рабочий стол\exam\exam\Code\bin\Debug\net8.0\Code.dll
+C:\Users\tyose\OneDrive\Рабочий стол\exam\exam\Code\bin\Debug\net8.0\Code.pdb
+C:\Users\tyose\OneDrive\Рабочий стол\exam\exam\Code\obj\Debug\net8.0\Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tyose\OneDrive\Рабочий стол\exam\exam\Code\obj\Debug\net8.0\Code.AssemblyInfoInputs.cache
+C:\Users\tyose\OneDrive\Рабочий стол\exam\exam\Code\obj\Debug\net8.0\Code.AssemblyInfo.cs
+C:\Users\tyose\OneDrive\Рабочий стол\exam\exam\Code\obj\Debug\net8.0\Code.csproj.CoreCompileInputs.cache
+C:\Users\tyose\OneDrive\Рабочий стол\exam\exam\Code\obj\Debug\net8.0\Code.dll
+C:\Users\tyose\OneDrive\Рабочий стол\exam\exam\Code\obj\Debug\net8.0\refint\Code.dll
+C:\Users\tyose\OneDrive\Рабочий стол\exam\exam\Code\obj\Debug\net8.0\Code.pdb
+C:\Users\tyose\OneDrive\Рабочий стол\exam\exam\Code\obj\Debug\net8.0\Code.genruntimeconfig.cache
+C:\Users\tyose\OneDrive\Рабочий стол\exam\exam\Code\obj\Debug\net8.0\ref\Code.dll
