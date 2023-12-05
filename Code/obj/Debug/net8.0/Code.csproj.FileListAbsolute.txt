@@ -12,3 +12,4 @@ C:\Users\tyose\OneDrive\Рабочий стол\exam\exam\Code\obj\Debug\net8.0\
 C:\Users\tyose\OneDrive\Рабочий стол\exam\exam\Code\obj\Debug\net8.0\Code.pdb
 C:\Users\tyose\OneDrive\Рабочий стол\exam\exam\Code\obj\Debug\net8.0\Code.genruntimeconfig.cache
 C:\Users\tyose\OneDrive\Рабочий стол\exam\exam\Code\obj\Debug\net8.0\ref\Code.dll
+C:\Users\tyose\OneDrive\Рабочий стол\exam\exam\Code\obj\Debug\net8.0\Code.sourcelink.json
